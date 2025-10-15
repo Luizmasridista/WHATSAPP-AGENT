@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore Google API credentials
+credentials.json
+token.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore database files
+*.db
+
+# Ignore ngrok files
+ngrok.log
